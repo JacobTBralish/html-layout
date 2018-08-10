@@ -1,0 +1,19 @@
+header {
+    height: 100px;
+    background: gray;
+}
+footer {
+    height: 50px;
+    background: rgb(51, 51, 51);
+    width: 75%;
+    margin: auto;
+}
+div {
+    background: white;
+    height: 555px;
+    margin: auto;
+    width: 75%;
+}
+body {
+    background: rgb(194, 194, 194);
+}

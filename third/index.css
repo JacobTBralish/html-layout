@@ -1,0 +1,40 @@
+header {
+    height: 100px;
+    background: rgb(201, 201, 201);
+}
+
+.smallblue {
+    background: rgb(0, 132, 255);
+    height: 80px;
+    width: 80px;
+    margin-left:20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.textbox {
+    height: 400px;
+
+}
+
+.bluebox {
+    background: rgb(0, 132, 255);
+    height: 122px;
+
+}
+
+.tealbox {
+    background: teal;
+    height: 122px;
+}
+
+.greenbox{
+    background: rgb(118, 199, 118);
+    height: 122px;
+
+}
+
+.yellowbox {
+  height: 122px;
+  background: yellow;
+}
