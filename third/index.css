@@ -16,6 +16,15 @@ header {
     height: 400px;
 
 }
+p {
+    text-align: left;
+    font-size: 35px;
+    padding: 100px;
+    margin: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
 
 .bluebox {
     background: rgb(0, 132, 255);
